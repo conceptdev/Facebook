@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facebook", "Facebook.csproj", "{C9CC774E-06E8-4170-BCE4-5F0661C883EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Newtonsoft.Json", "Newtonsoft.Json\Newtonsoft.Json.csproj", "{C9CC774E-06E8-4170-BCE4-5F0661C883EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9CC774E-06E8-4170-BCE4-5F0661C883EE}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{C9CC774E-06E8-4170-BCE4-5F0661C883EE}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{C9CC774E-06E8-4170-BCE4-5F0661C883EE}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{C9CC774E-06E8-4170-BCE4-5F0661C883EE}.Debug|iPhone.Build.0 = Debug|iPhone
+		{C9CC774E-06E8-4170-BCE4-5F0661C883EE}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{C9CC774E-06E8-4170-BCE4-5F0661C883EE}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{C9CC774E-06E8-4170-BCE4-5F0661C883EE}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{C9CC774E-06E8-4170-BCE4-5F0661C883EE}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{C9CC774E-06E8-4170-BCE4-5F0661C883EE}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{C9CC774E-06E8-4170-BCE4-5F0661C883EE}.Release|iPhone.ActiveCfg = Release|iPhone
+		{C9CC774E-06E8-4170-BCE4-5F0661C883EE}.Release|iPhone.Build.0 = Release|Any CPU
+		{C9CC774E-06E8-4170-BCE4-5F0661C883EE}.Release|iPhone.Build.0 = Release|iPhone
+		{C9CC774E-06E8-4170-BCE4-5F0661C883EE}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{C9CC774E-06E8-4170-BCE4-5F0661C883EE}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{C9CC774E-06E8-4170-BCE4-5F0661C883EE}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{C9CC774E-06E8-4170-BCE4-5F0661C883EE}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Facebook.csproj
+	EndGlobalSection
+EndGlobal
